@@ -11,5 +11,9 @@ namespace Calculadora.Services
         {
             return num1 + num2;
         }
+        public bool NumeroPar(int num)
+        {
+            return num % 2 == 0;
+        }
     }
 }

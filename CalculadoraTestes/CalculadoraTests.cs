@@ -48,4 +48,18 @@ public class CalculadoraTests
         // Assert
         Assert.Equal(-15, result);
     }
+
+    [Fact]
+    public void NumeroPar_ShouldReturnNumberPare()
+    {
+        // Arrange
+        var calc = new CalculadoraImp();
+        var num = 4;
+
+        // Act
+        var result = calc.NumeroPar(num);
+
+        // Assert
+        Assert.True(result);
+    }
 }

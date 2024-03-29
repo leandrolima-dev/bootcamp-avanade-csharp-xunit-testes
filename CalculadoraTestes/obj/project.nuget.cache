@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nAsdPUa0wWwUDoMmdDfWwxauNUOUNpC3hazFX4RP7ji/w8/kKn5vTEM2b250P2agISs5uxK6G6l2FW65mO14gQ==",
+  "dgSpecHash": "YhR1Kc9MZ9BH5H5kLMnN01Q+OkLrfZROATt4BiNiX7sdfSdFrD9v6IVOKTqqQpnOozLEa9jZ7HaUfelERKkGMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lspli\\programacao\\DIO - Pro\\Avanade - C# .NET\\modulo-testes\\CalculadoraTestes\\CalculadoraTestes.csproj",
+  "projectFilePath": "c:\\Users\\lspli\\programacao\\DIO - Pro\\Avanade - C# .NET\\modulo-testes\\CalculadoraTestes\\CalculadoraTestes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lspli\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\lspli\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
