@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\lspli\\programacao\\DIO - Pro\\Avanade - C# .NET\\modulo-testes\\Calculadora\\Calculadora.csproj": {}
+    "C:\\Users\\lspli\\programacao\\DIO - Pro\\Avanade - C# .NET\\modulo-testes\\Calculadora\\Calculadora.csproj": {}
   },
   "projects": {
-    "c:\\Users\\lspli\\programacao\\DIO - Pro\\Avanade - C# .NET\\modulo-testes\\Calculadora\\Calculadora.csproj": {
+    "C:\\Users\\lspli\\programacao\\DIO - Pro\\Avanade - C# .NET\\modulo-testes\\Calculadora\\Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\lspli\\programacao\\DIO - Pro\\Avanade - C# .NET\\modulo-testes\\Calculadora\\Calculadora.csproj",
+        "projectUniqueName": "C:\\Users\\lspli\\programacao\\DIO - Pro\\Avanade - C# .NET\\modulo-testes\\Calculadora\\Calculadora.csproj",
         "projectName": "Calculadora",
-        "projectPath": "c:\\Users\\lspli\\programacao\\DIO - Pro\\Avanade - C# .NET\\modulo-testes\\Calculadora\\Calculadora.csproj",
+        "projectPath": "C:\\Users\\lspli\\programacao\\DIO - Pro\\Avanade - C# .NET\\modulo-testes\\Calculadora\\Calculadora.csproj",
         "packagesPath": "C:\\Users\\lspli\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\lspli\\programacao\\DIO - Pro\\Avanade - C# .NET\\modulo-testes\\Calculadora\\obj\\",
+        "outputPath": "C:\\Users\\lspli\\programacao\\DIO - Pro\\Avanade - C# .NET\\modulo-testes\\Calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lspli\\AppData\\Roaming\\NuGet\\NuGet.Config",
