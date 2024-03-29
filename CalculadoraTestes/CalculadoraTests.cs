@@ -50,11 +50,31 @@ public class CalculadoraTests
     }
 
     [Fact]
-    public void NumeroPar_ShouldReturnNumberPare()
+    public void NumeroPar_ShouldReturnNumberEven()
     {
         // Arrange
         var calc = new CalculadoraImp();
         var num = 4;
+
+        // Act
+        var result = calc.NumeroPar(num);
+
+        // Assert
+        Assert.True(result);
+    }
+
+    //Teste para verificar varios numeros são pares
+    //Theory e usado para testar multiplos cenarios
+    //InlineData e usado para passar os valores para o teste
+    [Theory]
+    [InlineData(2)]
+    [InlineData(4)]
+    [InlineData(6)]
+    [InlineData(8)]
+    public void NumeroPar_ShouldReturnNumbersEvens(int num)
+    {
+        // Arrange
+        var calc = new CalculadoraImp();
 
         // Act
         var result = calc.NumeroPar(num);
